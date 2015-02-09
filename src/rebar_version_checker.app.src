@@ -1,0 +1,6 @@
+{application, rebar_version_checker,
+ [{description, "Rebar vsn checker plugin"},
+  {vsn, git},
+  {modules, []},
+  {registered, []},
+  {applications, [kernel, stdlib]}]}.
